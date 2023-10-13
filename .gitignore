@@ -1,0 +1,14 @@
+*.gem
+Gemfile.lock
+.bundle
+.gradle
+.idea
+lib/log4j/
+lib/net/
+lib/org/
+vendor/
+build/
+.idea/
+vendor
+*.jar
+tls_repository/
